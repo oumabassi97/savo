@@ -1,51 +1,51 @@
 {
-    "use": "true",
+    "use": "false",
     "bannerAdUnitId1": {
-        "true": " ",
+        "true": "ca-app-pub-6633825758455454/7631755692",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId2": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/8331713403",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId3": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/9677418810",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId4": {
-        "true": " ",
+        "true": "ca-app-pub-6633825758455454/3112010462",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId5": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/9810400311",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "interstitialAdUnitId1": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/7244780875",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId2": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/4233520440",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId3": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/1463052729",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId4": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/8305746958",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId5": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/1415785415",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "nativeAdUnitId": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/5513978370",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "openaddId": {
-        "true": "",
+        "true": "ca-app-pub-6633825758455454/5513978370",
         "false": "ca-app-pub-3940256099942544/3419835294"
     }
 }
