@@ -1,51 +1,51 @@
 {
     "use": "true",
     "bannerAdUnitId1": {
-        "true": "ca-app-pub-6633825758455454/7631755692",
+        "true": "ca-app-pub-3473769820688171/3553211206",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId2": {
-        "true": "ca-app-pub-6633825758455454/8331713403",
+        "true": "ca-app-pub-3473769820688171/9927047864",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId3": {
-        "true": "ca-app-pub-6633825758455454/9677418810",
+        "true": "ca-app-pub-3473769820688171/7300884528",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId4": {
-        "true": "ca-app-pub-6633825758455454/3112010462",
+        "true": "ca-app-pub-3473769820688171/9735476176",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "bannerAdUnitId5": {
-        "true": "ca-app-pub-6633825758455454/9810400311",
+        "true": "ca-app-pub-3473769820688171/7109312833",
         "false": "ca-app-pub-3940256099942544/6300978111"
     },
     "interstitialAdUnitId1": {
-        "true": "ca-app-pub-6633825758455454/7244780875",
+        "true": "ca-app-pub-3473769820688171/6117749076",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId2": {
-        "true": "ca-app-pub-6633825758455454/4233520440",
+        "true": "ca-app-pub-3473769820688171/2978496133",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId3": {
-        "true": "ca-app-pub-6633825758455454/1463052729",
+        "true": "ca-app-pub-3473769820688171/9845241098",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId4": {
-        "true": "ca-app-pub-6633825758455454/8305746958",
+        "true": "ca-app-pub-3473769820688171/6534597767",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "interstitialAdUnitId5": {
-        "true": "ca-app-pub-6633825758455454/1415785415",
+        "true": "",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "nativeAdUnitId": {
-        "true": "ca-app-pub-6633825758455454/5513978370",
+        "true": "ca-app-pub-3473769820688171/9899127709",
         "false": "ca-app-pub-3940256099942544/1033173712"
     },
     "openaddId": {
-        "true": "ca-app-pub-6633825758455454/5513978370",
+        "true": "ca-app-pub-3473769820688171/9064596177",
         "false": "ca-app-pub-3940256099942544/3419835294"
     }
 }
