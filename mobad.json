@@ -1,5 +1,5 @@
 {
-    "use": "true",
+    "use": "false",
     "bannerAdUnitId1": {
         "true": "ca-app-pub-3473769820688171/3553211206",
         "false": "ca-app-pub-3940256099942544/6300978111"
